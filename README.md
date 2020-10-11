@@ -4,7 +4,7 @@ Sou um desenvolvedor, apaixonado por tecnologia e programação. Sou Formado em 
 
 Acesse meu portfólio e veja meus principais projetos:  
   
-🌎 <https://diegolopes.github.io>  
+🌎 <https://diegolopes.github.io/portfolio>  
   
 Me encontre também em:  
 **LinkedIn:** <https://www.linkedin.com/in/diegolps>
